@@ -4,6 +4,7 @@ This is an Haskell inplementation of [Assembler interpreter (part II) - CodeWars
 To run the assemble scripts in GHCi:
 
 ```haskell
+-- in /src directory
 Prelude> :l Interface.hs 
 [1 of 4] Compiling AST              ( AST.hs, interpreted )
 [2 of 4] Compiling AssembleParser   ( AssembleParser.hs, interpreted )
